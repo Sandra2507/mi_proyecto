@@ -1,0 +1,13 @@
+.bnav{
+    color: inherit;
+     size:  20px;
+     scroll-behavior: smooth;
+     padding: 10px 30px;
+     display:inline-block;
+   
+ }
+ nav{
+    background-color:  #fbfbfb;
+    display: flex;
+    justify-content:flex-end;
+ }
